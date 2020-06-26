@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "588507759377",
+    "firebase_url": "https://socialfood-e44fc.firebaseio.com",
+    "project_id": "socialfood-e44fc",
+    "storage_bucket": "socialfood-e44fc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:588507759377:android:cc2fbc7670dd7647fd02b0",
+        "android_client_info": {
+          "package_name": "com.victorio.socialfood"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "588507759377-7c7irtj97b58eei0sstv271j6hd9rgau.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.victorio.socialfood",
+            "certificate_hash": "d49f3f4c33bdd9636d7608c74c95d528038aa490"
+          }
+        },
+        {
+          "client_id": "588507759377-jjufdsbcotusv40fn724ts19p6njbkjr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdNhNs_VhaTuJ7VK2QtYI-_Rs3KOvnXAQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "588507759377-jjufdsbcotusv40fn724ts19p6njbkjr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
